@@ -1,0 +1,9 @@
+{
+  "name": "tslchat",
+  "description": "Sample Chatting Application",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "websocket-server": "*"
+  }
+}
